@@ -2,7 +2,7 @@
   "quotes": [
     {
       "id": "1",
-      "author": "A ",
+      "author": "Arr",
       "quote": "Life is like riding a bicycle..."
     },
     {
@@ -19,6 +19,11 @@
       "id": "5",
       "author": "Authorrr",
       "quote": "Always forgive your enemiesss."
+    },
+    {
+      "id": "6",
+      "author": "Einstein",
+      "quote": "BLA BLA BLA"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
